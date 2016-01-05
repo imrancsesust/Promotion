@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Promotion</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="product">Product</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="success">Success</string>
+    <string name="failed">Failed</string>
+    <string name="error_server">Server Unreachable</string>
+    <string name="promotion_saved_failure">Promotion creation failed.</string>
+    <string name="product_saved_failure">Product creation failed.</string>
+    <string name="promotion_saved_success">Promotion Saved Successfully.</string>
+    <string name="product_saved_success">Product Saved Successfully.</string>
+    <string name="ok">Ok</string>
+    <string name="action_product">Products</string>
+    <string name="add_product">Add Product</string>
+    <string name="add_promotion">Add Promotion</string>
+    <string name="action_promotion">Promotions</string>
+    <string name="hint_description">Description</string>
+    <string name="hint_discount">Discount</string>
+    <string name="err_msg_description">Please enter valid description.</string>
+    <string name="err_msg_discount">Please enter valid discount.</string>
+</resources>
